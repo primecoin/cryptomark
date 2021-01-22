@@ -11,7 +11,7 @@ While CryptoMark 1.0 was a nice tool for Android, the upcoming CryptoMark 2.0 is
 * Twin miner engine
 * Service allowing Android phones to work as miners for Primecoin testnet
 * Solo pool infrastructures supporting Primecoin testnet mining
-* Work with Gemmer together to support Primecoin testnet mining
+* Work with [Gemmer](https://github.com/primecoin/gemmer) together to support Primecoin testnet mining
 
 ### Tentative Milestones
 
