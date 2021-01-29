@@ -10,7 +10,7 @@ CryptoMark was first introduced in 2020 with novel concepts. Benchmark is based 
 
 ### FAQ
 
-* ***How to mine testnet primecoins?*** To enable mining of testnet primecoins, a Primecoin testnet address must be provided to cryptomark. First fully close cryptomark app. In [Gemmer](https://github.com/primecoin/gemmer) (0.3.3+ required), switch to Primecoin testnet view via typing `testnet primecoin` into amount input box. Hold the QRcode for a second to share the testnet address with other apps, then in the Android popup choose cryptomark app to share with. Cryptomark app would start upon sharing and display the address on the upper right corner, with the mining cart button now enabled.
+* ***How to mine testnet primecoins?*** To enable mining of testnet primecoins, a Primecoin testnet address must be provided to cryptomark. First fully close cryptomark app. In [Gemmer](https://github.com/primecoin/gemmer) (0.3.3+ needed), switch to Primecoin testnet view via typing `testnet primecoin` into amount input box. Hold the QRcode for a second to share the testnet address with other apps, then in the Android popup choose cryptomark app to share with. Cryptomark app would start upon sharing and display the address on the upper right corner, with the mining cart button now enabled.
 
 * ***What does the rating above the meter mean?*** The rating is known as `diffeq`. It is an estimate of the stabilized network difficulty assuming your miner is the only miner in the proof-of-work network. The number to the right of diffeometer is the current Primecoin network difficulty. Diffeq rating provides a sense of logarithmic scale to the amount of computation resource.
 
