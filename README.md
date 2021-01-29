@@ -4,7 +4,7 @@ Fun app to measure CPU performance and play with the innerworkings of Crypto!
 
 ### Introduction
 
-CryptoMark 2.0 is redesigned with fun and education in mind, together with a new python engine replacing the java engine in CryptoMark 1.0.
+CryptoMark 2.0 is redesigned with fun and education in mind, together with a new engine supporting mining of testnet primecoins!
 
 CryptoMark was first introduced in 2020 with novel concepts. Benchmark is based on proof-of-work of cryptocurrencies represented by Primecoin and Bitcoin. Two types of benchmark ratings are provided, one linear, one logarithmic. The linear ratings which provide more accurate comparisons of CPU performance, is measured in twin/minute for Primecoin and hash/second for Bitcoin. The logarithmic rating is known as the `diffeq`, with a graphic representation called `diffeometer`. Diffeq rating is used to provide a sense of scale of the given proof-of-work system.
 
