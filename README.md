@@ -16,7 +16,7 @@ CryptoMark was first introduced in 2020 with novel concepts. Benchmark is based 
 
 * ***What's up with the CPU button?*** Benchmark mode is yet to be implemented for CryptoMark 2. So the CPU button temporarily serves as stop mining button.
 
-* ***What are the four words on the upper left corner?*** These are the names of the mining pools providing service to CryptoMark 2. These pools are `solo pools`, meaning that the pool will distribute coins to your wallet as if you are solo mining to a node. Unlike actual solo mining, the coins are not in coinbase so are not subject to maturity restrictions. When cryptomark is mining, it chooses one of the pools to work with and also does failover as needed.
+* ***What are the four words on the upper left corner?*** These are the names of the mining pools providing service to CryptoMark 2. These pools are `solo pools`, meaning that the pool will distribute coins to your wallet in real time upon finding of block as if you are solo mining to a node. Unlike actual solo mining, the coins are not in coinbase so are not subject to maturity restrictions. When cryptomark is mining, it chooses one of the pools to work with and also does failover as needed.
 
 ### Feature Implemented So Far
 
