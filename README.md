@@ -14,8 +14,6 @@ CryptoMark was first introduced in 2020 with novel concepts. Benchmark is based 
 
 * ***What does the rating above the meter mean?*** The rating is known as `diffeq`. It is an estimate of the stabilized network difficulty assuming your miner is the only miner in the proof-of-work network. The number to the right of diffeometer is the current Primecoin network difficulty. Diffeq rating provides a sense of logarithmic scale to the amount of computation resource.
 
-* ***What's up with the CPU button?*** Benchmark mode is yet to be implemented for CryptoMark 2. So the CPU button temporarily serves as stop mining button.
-
 * ***What are the four words on the upper left corner?*** These are the names of the mining pools providing service to CryptoMark 2. These pools are `solo pools`, meaning that the pool will distribute coins to your wallet in real time upon finding of block as if you are solo mining to a node. Unlike actual solo mining, the coins are not in coinbase so are not subject to maturity restrictions. When cryptomark is mining, it chooses one of the pools to work with and also does failover as needed.
 
 ### Feature Implemented So Far
@@ -24,12 +22,12 @@ CryptoMark was first introduced in 2020 with novel concepts. Benchmark is based 
 * Service allowing Android phones to work as miners for Primecoin testnet
 * Solo pool infrastructures supporting Primecoin testnet mining
 * Work with [Gemmer](https://github.com/primecoin/gemmer) together to support Primecoin testnet mining
+* Primecoin benchmark
 
 ### Tentative Milestones
 
-* Q1 2021 - Mining on Primecoin testnet
-* Q2 2021 - Primecoin mining benchmark
-* Q3 2021 - Bitcoin mining benchmark
+* Q1 2021 - Mining on Primecoin testnet, Primecoin mining benchmark
+* Q2 2021 - Bitcoin mining benchmark
 
 ### Community
 
