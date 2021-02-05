@@ -1,4 +1,4 @@
-# CryptoMark 2.0 TwinSeeker
+# CryptoMark TwinSeeker
 
 Fun app to measure CPU performance and play with the innerworkings of Crypto!
 
