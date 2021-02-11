@@ -31,6 +31,7 @@ CryptoMark was first introduced in 2020 with novel concepts. Benchmark is based 
 * Q1 2021 - Mining on Primecoin testnet, Primecoin mining benchmark, Bitcoin mining benchmark
 * Q2 2021 - Foreground service
 * Q3 2021 - Support getblocktemplate/submitblock API
+* Q4 2021 - Solo pool redesign
 
 ### Community
 
