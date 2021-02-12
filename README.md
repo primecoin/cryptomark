@@ -21,10 +21,11 @@ CryptoMark was first introduced in 2020 with novel concepts. Benchmark is based 
 ### Feature Implemented So Far
 
 * Twin miner engine
-* Service allowing Android phones to work as miners for Primecoin testnet
+* Background service allowing Android phones to work as miners for Primecoin testnet
 * Solo pool infrastructures supporting Primecoin testnet mining
 * Work with [Gemmer](https://github.com/primecoin/gemmer) together to support Primecoin testnet mining
 * Primecoin benchmark
+* Bitcoin benchmark
 
 ### Tentative Milestones
 
